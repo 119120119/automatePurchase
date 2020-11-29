@@ -1,0 +1,15 @@
+/Users/wanxiwei/automateStuff/bin/Debug/netcoreapp3.1/automateStuff
+/Users/wanxiwei/automateStuff/bin/Debug/netcoreapp3.1/automateStuff.deps.json
+/Users/wanxiwei/automateStuff/bin/Debug/netcoreapp3.1/automateStuff.runtimeconfig.json
+/Users/wanxiwei/automateStuff/bin/Debug/netcoreapp3.1/automateStuff.runtimeconfig.dev.json
+/Users/wanxiwei/automateStuff/bin/Debug/netcoreapp3.1/automateStuff.dll
+/Users/wanxiwei/automateStuff/bin/Debug/netcoreapp3.1/automateStuff.pdb
+/Users/wanxiwei/automateStuff/obj/Debug/netcoreapp3.1/automateStuff.csprojAssemblyReference.cache
+/Users/wanxiwei/automateStuff/obj/Debug/netcoreapp3.1/automateStuff.AssemblyInfoInputs.cache
+/Users/wanxiwei/automateStuff/obj/Debug/netcoreapp3.1/automateStuff.AssemblyInfo.cs
+/Users/wanxiwei/automateStuff/obj/Debug/netcoreapp3.1/automateStuff.dll
+/Users/wanxiwei/automateStuff/obj/Debug/netcoreapp3.1/automateStuff.pdb
+/Users/wanxiwei/automateStuff/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/wanxiwei/automateStuff/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/wanxiwei/automateStuff/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/wanxiwei/automateStuff/obj/Debug/netcoreapp3.1/automateStuff.csproj.CopyComplete
